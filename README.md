@@ -4,15 +4,15 @@
 
 - [ ] **Project Summary**
 
-**Customer:** [Spotify]
+**Customer:** Spotify
 
-**Project name:** [LyricBot]
+**Project name:** LyricBot
 
 **Team Members:** 
-- [insert Project Manager]
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- Project Manager	: Abdul Haziq Bin Abd Khalid
+- Contract Manager	: Muhamad Nur Bin Muhamad Zaidi	
+- Technical Manager	: Muhammad Nabil Imran Bin Solehan
+- Financial Analyst	: Ahmad Naufal Bin Mohd Saleh
 
 
 - [ ] **Objectives:**
