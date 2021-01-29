@@ -68,9 +68,10 @@
 
 | Task | Estimated Costs | Notes |
 |------|-----------------|-------|
-|Furniture|$1,000| |
-|Decorations|$250|*wall art*|
-|**TOTAL**|**$1,250**|*estimated*|
+|Acquisition|RM50 000|Hardware/Software to create the system |
+|Design|RM35 000|Designing the system|
+|Restoration|RM25 000|Project restoration|
+|**TOTAL**|**RM110 000 **|*estimated*|
 
 
 - [ ]   **Milestone Chart**
