@@ -36,13 +36,13 @@
 
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 |-----------------|-----------------------------|---------------------------|--------------------------|
-| Quality         |    asdasd                         |                           |                          |
+| Quality         |                             |                           |                          |
 | Cost            |                             |                           |                          |
 | Time            |                             |                           |                          |
 
 
 - [ ]  **Responsibility Assignment Matrices (RAM) :**
-- [insert RAM Table include Resource Responsibility, Task/Deliverable (attach a Screen capture of the table).]
+- [![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/RAM.png)]
 - [Insert List for each of the members for their Roles and Responsibilities).]
 	
 
