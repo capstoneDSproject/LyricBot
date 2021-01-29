@@ -4,9 +4,9 @@
 
 - [ ] **Project Summary**
 
-**Customer:** [insert]
+**Customer:** [Spotify]
 
-**Project name:** [insert]
+**Project name:** [LyricBot]
 
 **Team Members:** 
 - [insert Project Manager]
