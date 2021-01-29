@@ -4,7 +4,7 @@
 
 - [ ] **Project Summary**
 
-Test line
+Creating lyrics is not at all a simple task, because it requires not only a clear understanding of natural language processing, but also a knowledge of songwriting techniques. Some people find it hard to create a song or lyric because they don't know how the flow of a song should be. So the system helps give the user an idea to create their own lyrics based on the genre they choose.
 
 **Customer:** Spotify
 
