@@ -84,7 +84,7 @@
 ## D.  EXECUTING THE PROJECT
 
 **Project Design and coding**
-- [ ]   [INSERT your Design - Diagrams]
+- [ ]![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/GUI.png)
 
 ![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg)
 
