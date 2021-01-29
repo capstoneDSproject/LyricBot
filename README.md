@@ -4,9 +4,7 @@
 
 - [ ] **Project Summary**
 
-Creating lyrics is not at all a simple task, because it requires not only a clear understanding of natural language processing, but also a knowledge of songwriting techniques. Some people find it hard to create a song or lyric because they don't know how the flow of a song should be. So the system helps give the user an idea to create their own lyrics based on the genre they choose.
-
-Each song genre has a different song structure, which we've analyzed, that the song structure also plays an important role in creating a song. The system also provides the user with a common song structure. For example, the song structure for the romance genre is not suited to the hip hop genre because the music flow is different. Romance songs usually don't have a hype or a fancy beat compared to hip hop, and that's why the system has a different song structure for each genre.
+-asdasdsa
 
 **Customer:** Spotify
 
@@ -60,17 +58,20 @@ Each song genre has a different song structure, which we've analyzed, that the s
 
 - [ ]  **Deliverables:**
 
-- [insert] Define specific completed deliverables by the end of the project.
-- [insert]
-- [insert]
+- Finishing data collection
+- Completing Model Training using the data collected
+- Successfully implemented the model into the LyricBot system
+- Successfully implemented the GUI into the LyricBot system
+- LyricBot system accomplished in generating lyrics based on genre.
 
 - [ ]   **Tasks and Estimated Costs**
 
 | Task | Estimated Costs | Notes |
 |------|-----------------|-------|
-|Furniture|$1,000| |
-|Decorations|$250|*wall art*|
-|**TOTAL**|**$1,250**|*estimated*|
+|Acquisition|RM50 000|Hardware/Software to create the system |
+|Design|RM35 000|Designing the system|
+|Restoration|RM25 000|Project restoration|
+|**TOTAL**|**RM110 000 **|*estimated*|
 
 
 - [ ]   **Milestone Chart**
@@ -83,13 +84,21 @@ Each song genre has a different song structure, which we've analyzed, that the s
 ## D.  EXECUTING THE PROJECT
 
 **Project Design and coding**
-- [ ]   [INSERT your Design - Diagrams]
 
-![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg)
+- Project Design
+- ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/GUI.png)
 
-- [ ]   [INSERT your coding - screen capture of your coding]
+- Project Coding
 
-![Coding](https://codinglab.jp/wp-content/uploads/2018/05/python.png)
+- Code for Markov Chain 
+- ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/CODEMARKOV.png)
+
+- Code for GUI 
+- ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/CODEGUI.png)
+
+- Code for output example 
+- ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/CODEOUTPUT.png)
+
 
 
 **Project Result**
