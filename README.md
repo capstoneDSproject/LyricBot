@@ -58,9 +58,11 @@
 
 - [ ]  **Deliverables:**
 
-- [insert] Define specific completed deliverables by the end of the project.
-- [insert]
-- [insert]
+- Finishing data collection
+- Completing Model Training using the data collected
+- Successfully implemented the model into the LyricBot system
+- Successfully implemented the GUI into the LyricBot system
+- LyricBot system accomplished in generating lyrics based on genre.
 
 - [ ]   **Tasks and Estimated Costs**
 
