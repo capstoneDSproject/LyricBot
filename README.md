@@ -29,7 +29,6 @@
 - [ ]  **Project Management Life-Cycle**
 - [insert Work Breakdown Structure (WBS) for each of the given tasks with Gantt Chart (Screen capture & attached source file, excel or MS Project) for Scope and Plan Project Management. The Gantt Chart includes activities, milestones, summary tasks, Durations of tasks and, etc]
 
-[![Gantt Chart](https://www.projectmanager.com/wp-content/uploads/2018/05/online-project-planning-software.jpg)
 
 
 - [ ] **Risk Identification Chart** (Quality, Cost, Time)
@@ -50,7 +49,7 @@
 
 | Modules/Components | Budget | Schedule | Responsibility |
 |--------------------|--------|----------|----------------|
-|                    |        |          |                |
+|        LyricBot System            |  RM1 000 000      |  12/10/2020-31/1/2021        |  Data Collection, Model Training, User Interface, System Functionality              |
 
 
 ## C.  IMPLEMENTING THE PROJECT PLAN 
