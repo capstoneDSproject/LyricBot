@@ -4,7 +4,7 @@
 
 - [ ] **Project Summary**
 
--asdasdsa
+Test line
 
 **Customer:** Spotify
 
@@ -58,20 +58,17 @@
 
 - [ ]  **Deliverables:**
 
-- Finishing data collection
-- Completing Model Training using the data collected
-- Successfully implemented the model into the LyricBot system
-- Successfully implemented the GUI into the LyricBot system
-- LyricBot system accomplished in generating lyrics based on genre.
+- [insert] Define specific completed deliverables by the end of the project.
+- [insert]
+- [insert]
 
 - [ ]   **Tasks and Estimated Costs**
 
 | Task | Estimated Costs | Notes |
 |------|-----------------|-------|
-|Acquisition|RM50 000|Hardware/Software to create the system |
-|Design|RM35 000|Designing the system|
-|Restoration|RM25 000|Project restoration|
-|**TOTAL**|**RM110 000 **|*estimated*|
+|Furniture|$1,000| |
+|Decorations|$250|*wall art*|
+|**TOTAL**|**$1,250**|*estimated*|
 
 
 - [ ]   **Milestone Chart**
@@ -84,7 +81,7 @@
 ## D.  EXECUTING THE PROJECT
 
 **Project Design and coding**
-- [ ]![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/GUI.png)
+- [ ]   [INSERT your Design - Diagrams]
 
 ![Coding](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/07/python-project-real-time-face-mask-detection.jpg)
 
