@@ -4,7 +4,9 @@
 
 - [ ] **Project Summary**
 
--asdasdsa
+Creating lyrics is not at all a simple task, because it requires not only a clear understanding of natural language processing, but also a knowledge of songwriting techniques. Some people find it hard to create a song or lyric because they don't know how the flow of a song should be. So the system helps give the user an idea to create their own lyrics based on the genre they choose. 
+
+Each song genre has a different song structure, which we've analyzed, that the song structure also plays an important role in creating a song. The system also provides the user with a common song structure. For example, the song structure for the romance genre is not suited to the hip hop genre because the music flow is different. Romance songs usually don't have a hype or a fancy beat compared to hip hop, and that's why the system has a different song structure for each genre.
 
 **Customer:** Spotify
 
