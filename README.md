@@ -9,10 +9,10 @@
 **Project name:** LyricBot
 
 **Team Members:** 
-- Project Manager	: Abdul Haziq Bin Abd Khalid
-- Contract Manager	: Muhamad Nur Bin Muhamad Zaidi	
-- Technical Manager	: Muhammad Nabil Imran Bin Solehan
-- Financial Analyst	: Ahmad Naufal Bin Mohd Saleh
+- Abdul Haziq Bin Abd Khalid
+- Muhamad Nur Bin Muhamad Zaidi	
+- Muhammad Nabil Imran Bin Solehan
+- Ahmad Naufal Bin Mohd Saleh
 
 
 - [ ] **Objectives:**
@@ -42,8 +42,8 @@
 
 
 - [ ]  **Responsibility Assignment Matrices (RAM) :**
-- [![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/RAM.png)]
-- [Insert List for each of the members for their Roles and Responsibilities).]
+- ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/RAM.png)
+- ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/ROLES.png)
 	
 
 - [ ]  **Project Planning Summary:**
