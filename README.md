@@ -21,10 +21,9 @@ Each song genre has a different song structure, which we've analyzed, that the s
 
 - [ ] **Objectives:**
 
-- Break out the project goal into more specific objectives
-- [insert]
-- [insert]
-- [insert]
+- To help users in thinking of their song lyrics
+- To ease the work of the user in creating lyrics and save their time
+- To deliver a lyrics with different song structure for each genre
 
 
 
@@ -39,9 +38,12 @@ Each song genre has a different song structure, which we've analyzed, that the s
 
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 |-----------------|-----------------------------|---------------------------|--------------------------|
-| Quality         |                             |                           |                          |
-| Cost            |                             |                           |                          |
-| Time            |                             |                           |                          |
+| Quality         | Inaccurate word prediction  | When we do testing        |We will trained the system| 
+|		  |				|			    |with more data.  	       |
+| Cost            | High usage of internet      | When we train the system  |Discuss with sponsor about|
+|		  |				| continuously.             |the usage of internet.    |
+| Time            | Time to scrap the data      | When we train the data.   |Use different method      |
+|                 |                             |                           |instead of scraping.      |
 
 
 - [ ]  **Responsibility Assignment Matrices (RAM) :**
