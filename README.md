@@ -120,9 +120,9 @@ Each song genre has a different song structure, which we've analyzed, that the s
 - [ ]   ii. Project Lesson Learned 
 - ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/LessonLearned.png)
 - [ ]   iii. Final Project Report
-- ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/LABWORK/FinalProjectReport.pdf)
+- [a relative link](FinalProjectReport.pdf)
 - [ ]   iv. Close contract
-- ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/LABWORK/ProcurementManagementPlan.pdf)
+- [a relative link](ProcurementManagementPlan.pdf)
 
 
 ## F.   PROJECT PRESENTATION 
