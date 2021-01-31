@@ -115,8 +115,10 @@ Each song genre has a different song structure, which we've analyzed, that the s
 ## E.  COMPLETING THE PROJECT
 
 **Closing Checklist**
-- [ ]   i. ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/ProjectCompletion.png)
-- [ ]   ii. ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/LessonLearned.png)
+- [ ]   i. Project Completion Sign Off
+- [ ]   ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/ProjectCompletion.png)
+- [ ]   ii. Project Lesson Learned 
+- [ ]   ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/LessonLearned.png)
 - [ ]   iii. [INSERT Final Project Report (insert REPORT))]
 - [ ]   iv. [IClose Contract (insert CONTRACT))]
 
