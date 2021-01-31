@@ -30,7 +30,7 @@ Each song genre has a different song structure, which we've analyzed, that the s
 ##  B. PLANNING THE PROJECT 
 
 - [ ]  **Project Management Life-Cycle**
-- [insert Work Breakdown Structure (WBS) for each of the given tasks with Gantt Chart (Screen capture & attached source file, excel or MS Project) for Scope and Plan Project Management. The Gantt Chart includes activities, milestones, summary tasks, Durations of tasks and, etc]
+- ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/WBS.png)
 
 
 
