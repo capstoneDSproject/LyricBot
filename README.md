@@ -109,14 +109,14 @@ Each song genre has a different song structure, which we've analyzed, that the s
 
 **Project Result**
 - [ ]   Example output of genre Romance
-- - ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/OUTPUT.png)
+- ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/OUTPUT.png)
 
 
 ## E.  COMPLETING THE PROJECT
 
 **Closing Checklist**
-- [ ]   i. [INSERT Acceptance/Project Completion Form Sign-Off (insert FORM)]
-- [ ]   ii. [INSERT Lessons Learned Document (insert DOC)]
+- [ ]   i. ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/ProjectCompletion.png)
+- [ ]   ii. ![alt text](https://github.com/capstoneDSproject/LyricBot/blob/main/IMAGES/LessonLearned.png)
 - [ ]   iii. [INSERT Final Project Report (insert REPORT))]
 - [ ]   iv. [IClose Contract (insert CONTRACT))]
 
