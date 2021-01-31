@@ -123,7 +123,7 @@ Each song genre has a different song structure, which we've analyzed, that the s
 - [ ]   iv. [Close contract](https://github.com/capstoneDSproject/LyricBot/blob/main/LABWORK/ProcurementManagementPlan.pdf)
 
 ## F.   PROJECT PRESENTATION 
-[![Project Presentation](https://www.youtube.com/watch?v=UMihFNTSYkk)
+![Project Presentation](https://www.youtube.com/watch?v=UMihFNTSYkk)
 
 
 
