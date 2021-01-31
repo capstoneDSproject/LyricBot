@@ -38,12 +38,10 @@ Each song genre has a different song structure, which we've analyzed, that the s
 
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 |-----------------|-----------------------------|---------------------------|--------------------------|
-| Quality         | Inaccurate word prediction  | When we do testing        |We will trained the system| 
-|		  |				|			    |with more data.  	       |
-| Cost            | High usage of internet      | When we train the system  |Discuss with sponsor about|
-|		  |				| continuously.             |the usage of internet.    |
-| Time            | Time to scrap the data      | When we train the data.   |Use different method      |
-|                 |                             |                           |instead of scraping.      |
+| Quality         | Inaccurate word prediction  | When we do testing        |We will trained the system with more data.| 
+| Cost            | High usage of internet      | When we train the system continuously.   |Discuss with sponsor about the usage of internet.|
+| Time            | Time to scrap the data      | When we train the data.   |Use different method instead of scraping.|
+
 
 
 - [ ]  **Responsibility Assignment Matrices (RAM) :**
