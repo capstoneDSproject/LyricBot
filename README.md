@@ -80,7 +80,11 @@ Each song genre has a different song structure, which we've analyzed, that the s
 
 | Milestone | Scheduled Completion | Actual Completion |
 |-----------|----------------------|-------------------|
-| Initiation          |           12/10/2020-19/10/2020           |         18/10/2020          |
+|Initiation|12/10/2020-19/10/2020|18/10/2020|
+|Planing|20/10/2020-6/11/2020|3/11/2020|
+|Design|9/11/2020-18/11/2020|16/11/2020|
+|Implementation|19/11/2020-5/12/2020|5/12/2020|
+|Closure|7/12/2020-16/12/2020|16/12/2020|
 
 
 ## D.  EXECUTING THE PROJECT
